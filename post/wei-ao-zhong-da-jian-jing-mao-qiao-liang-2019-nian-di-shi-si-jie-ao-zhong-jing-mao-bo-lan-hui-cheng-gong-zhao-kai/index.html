@@ -9,16 +9,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://num80storm.github.io//favicon.ico?v=1568879535866">
+<link rel="shortcut icon" href="https://num80storm.github.io//favicon.ico?v=1568881310499">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://num80storm.github.io//styles/main.css">
 
-
-  
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
-  
-
-  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -45,7 +39,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://num80storm.github.io/">
-        <img src="https://num80storm.github.io//images/avatar.png?v=1568879535866" class="site-logo">
+        <img src="https://num80storm.github.io//images/avatar.png?v=1568881310499" class="site-logo">
         <h1 class="site-title">博士山80号</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -159,12 +153,6 @@
             
 
             
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
 
           </div>
 
@@ -188,29 +176,6 @@ var app = new Vue({
 })
 
 </script>
-
-
-
-  
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-
-      var gitalk = new Gitalk({
-        clientID: '9754d032b8d2a0531e00',
-        clientSecret: '3821cffdaaf8d21d068d37115d089f26135d6f32',
-        repo: 'num80storm.github.io',
-        owner: 'num80strom',
-        admin: ['num80strom'],
-        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-      })
-
-      gitalk.render('gitalk-container')
-
-    </script>
-  
-
-  
 
 
 
