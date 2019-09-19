@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://num80storm.github.io/</id>
-    <title>Liang Zhu</title>
-    <updated>2019-09-19T05:47:52.052Z</updated>
+    <title>博士山80号</title>
+    <updated>2019-09-19T05:51:34.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://num80storm.github.io/"/>
     <link rel="self" href="https://num80storm.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一名土澳留学生的工作生活分享</subtitle>
     <logo>https://num80storm.github.io//images/avatar.png</logo>
     <icon>https://num80storm.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Liang Zhu</rights>
+    <rights>All rights reserved 2019, 博士山80号</rights>
     <entry>
         <title type="html"><![CDATA[澳大利亚最赚钱的CEO榜单揭晓，榜首收入超全澳平均水平275倍！！]]></title>
         <id>https://num80storm.github.io//post/ao-da-li-ya-zui-zhuan-qian-de-ceo-bang-dan-jie-xiao-bang-shou-shou-ru-chao-quan-ao-ping-jun-shui-ping-275-bei</id>
